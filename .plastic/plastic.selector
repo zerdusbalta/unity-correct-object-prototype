@@ -1,0 +1,4 @@
+repository "CorrectObjectPrototype/CorrectObjectPrototype@5774014984192@cloud"
+  path "/"
+    br "/main"
+    co "/main"
